@@ -3,7 +3,7 @@ int main(void)
 {
 char m;
 printf("Enter the alphabet:");
-scanf("%c",&a);
-printf("%d",a);
+scanf("%c",&m);
+printf("%d",m);
 return 0;
 }
