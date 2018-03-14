@@ -11,7 +11,7 @@ for(i=0;i<n;i++)
 {
 if(i%2==0)
 {
-printf("%c",a[i]);
+printf("%c",m[i]);
 }
 }
 printf("\t");
@@ -19,7 +19,7 @@ for(i=0;i<n;i++);
 {
 if(i%2!=0)
 {
-printf("%c),a[i]);
+printf("%c",m[i]);
 }
 }
 return o;
